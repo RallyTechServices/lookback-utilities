@@ -166,7 +166,7 @@ Ext.define("lookback-test", {
 
                     wsVal = wsVal && wsVal._refObjectName || wsVal;
                     snapVal = snapVal && snapVal._refObjectName || snapVal;
-                    
+
                     if (wsVal != snapVal && wsVal !== null && snapVal !== 0){
                         mismatch = true;
                         return false;
