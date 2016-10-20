@@ -1,0 +1,58 @@
+issue,object id, formatted id, wsapi todo, 'current' snapshot todo, wsapi state, current snapshot state, current snapshot _ValidFrom
+current snapshot values do not match wsapi ,48687176469,TA183197,0,60,Completed,In-Progress,2016-09-08T20:42:10.412Z
+current snapshot values do not match wsapi ,48687177092,TA183198,0,60,Completed,In-Progress,2016-09-08T20:42:10.902Z
+current snapshot values do not match wsapi ,48687178723,TA183200,0,80,Completed,Defined,2016-09-08T20:42:11.937Z
+current snapshot values do not match wsapi ,52738962205,TA198530,0,8,Completed,In-Progress,2016-09-08T20:49:00.686Z
+current snapshot values do not match wsapi ,54396068815,TA205740,0,80,Completed,In-Progress,2016-09-08T20:53:12.651Z
+current snapshot values do not match wsapi ,54396875046,TA205754,0,80,Completed,Defined,2016-09-08T20:53:16.168Z
+current snapshot values do not match wsapi ,54507434562,TA206616,0,64,Completed,In-Progress,2016-09-08T20:55:34.703Z
+current snapshot values do not match wsapi ,54513996400,TA206686,0,200,Completed,In-Progress,2016-09-28T04:54:16.663Z
+current snapshot values do not match wsapi ,54514005614,TA206689,0,120,Completed,In-Progress,2016-09-28T04:59:08.138Z
+current snapshot values do not match wsapi ,54552426770,TA206866,0,80,Completed,In-Progress,2016-09-08T20:56:17.666Z
+current snapshot values do not match wsapi ,54585789026,TA207018,0,22,Completed,In-Progress,2016-10-11T18:04:33.922Z
+current snapshot values do not match wsapi ,54585936831,TA207021,0,20,Completed,In-Progress,2016-10-11T18:04:35.898Z
+current snapshot values do not match wsapi ,54675784829,TA207555,0,0,Completed,In-Progress,2016-10-11T18:04:26.670Z
+current snapshot values do not match wsapi ,54675788229,TA207556,0,16,Completed,In-Progress,2016-10-11T18:04:28.863Z
+current snapshot values do not match wsapi ,54675788895,TA207557,0,32,Completed,In-Progress,2016-10-11T18:04:30.228Z
+current snapshot values do not match wsapi ,55372449156,TA210226,0,6,Completed,In-Progress,2016-09-08T21:01:52.217Z
+current snapshot values do not match wsapi ,56003780154,TA212315,0,60,Completed,In-Progress,2016-09-08T21:04:20.321Z
+current snapshot values do not match wsapi ,58267921701,TA219612,0,80,Completed,In-Progress,2016-09-08T21:16:43.608Z
+current snapshot values do not match wsapi ,58685161983,TA221098,0,80,Completed,In-Progress,2016-09-08T21:19:05.427Z
+current snapshot values do not match wsapi ,59706635722,TA224354,80,80,In-Progress,Defined,2016-10-03T19:11:45.545Z
+current snapshot values do not match wsapi ,59707064310,TA224369,null,0,In-Progress,Defined,2016-10-05T16:46:07.402Z
+current snapshot values do not match wsapi ,59707065642,TA224370,null,0,In-Progress,Defined,2016-10-05T16:46:08.117Z
+current snapshot values do not match wsapi ,59707451695,TA224380,null,0,In-Progress,Defined,2016-10-05T16:46:09.873Z
+current snapshot values do not match wsapi ,61066105739,TA227760,0,0,Completed,In-Progress,2016-09-23T20:25:22.882Z
+current snapshot values do not match wsapi ,62602574981,TA230540,0,20,Completed,In-Progress,2016-10-11T18:04:44.011Z
+current snapshot values do not match wsapi ,63576679596,TA232351,120,0,In-Progress,In-Progress,2016-10-18T06:20:35.591Z
+current snapshot values do not match wsapi ,65682359032,TA233039,40,0,In-Progress,Completed,2016-10-05T03:24:56.953Z
+current snapshot values do not match wsapi ,65682360656,TA233041,40,60,In-Progress,In-Progress,2016-10-05T03:25:43.082Z
+current snapshot values do not match wsapi ,65727899252,TA233236,0,40,Completed,Defined,2016-10-10T17:22:39.649Z
+current snapshot values do not match wsapi ,65728364216,TA233237,0,40,Completed,Defined,2016-10-10T17:22:42.387Z
+current snapshot values do not match wsapi ,65859777144,TA233417,40,80,In-Progress,In-Progress,2016-09-28T18:03:59.929Z
+current snapshot values do not match wsapi ,65873383460,TA233444,30,40,In-Progress,In-Progress,2016-10-11T21:04:11.186Z
+current snapshot values do not match wsapi ,65884557584,TA233454,0,0,Completed,In-Progress,2016-09-29T17:57:37.746Z
+current snapshot values do not match wsapi ,66588319132,TA234355,16,16,In-Progress,Defined,2016-10-12T23:48:27.466Z
+current snapshot values do not match wsapi ,67360955584,TA235192,72,40,In-Progress,In-Progress,2016-10-10T18:11:19.989Z
+current snapshot values do not match wsapi ,67360957596,TA235193,72,40,In-Progress,In-Progress,2016-10-10T18:11:21.007Z
+current snapshot values do not match wsapi ,67548110208,TA235312,0,10,Completed,In-Progress,2016-10-12T01:04:41.613Z
+current snapshot values do not match wsapi ,68122780484,TA235594,24,8,In-Progress,In-Progress,2016-10-10T17:01:58.864Z
+No current snapshot for,68150569224,TA235665,,,,,
+No current snapshot for,68153206284,TA235682,,,,,
+"incomplete information (unformattedID=null), only 1 snapshot exists",68159041728,TA235689,null,,Defined,,2016-10-12T01:04:58.341Z
+"incomplete information (unformattedID=null), only 1 snapshot exists",68160030704,TA235691,40,,Defined,,2016-10-12T01:04:59.610Z
+No current snapshot for,68183808140,TA235714,,,,,
+No current snapshot for,68183816512,TA235716,,,,,
+No current snapshot for,68184190956,TA235717,,,,,
+No current snapshot for,68184203932,TA235719,,,,,
+No current snapshot for,68184210864,TA235720,,,,,
+No current snapshot for,68191204148,TA235722,,,,,
+"incomplete information (unformattedID=null), only 1 snapshot exists",68191507260,TA235723,0,,Completed,,2016-10-13T15:59:58.973Z
+"incomplete information (unformattedID=null), only 1 snapshot exists",68191513216,TA235724,0,,Completed,,2016-10-13T15:59:58.505Z
+"incomplete information (unformattedID=null), only 1 snapshot exists",68191514996,TA235725,0,,Completed,,2016-10-13T15:59:58.006Z
+"incomplete information (unformattedID=null), only 1 snapshot exists",68191517636,TA235726,0,,Completed,,2016-10-13T15:59:57.521Z
+No current snapshot for,68191522316,TA235728,,,,,
+No current snapshot for,68191524260,TA235729,,,,,
+"incomplete information (unformattedID=null), only 1 snapshot exists",68211801516,TA235732,80,,Defined,,2016-10-18T07:20:32.448Z
+No current snapshot for,68240609500,TA235739,,,,,
+No current snapshot for,68240613532,TA235740,,,,,
